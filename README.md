@@ -1,10 +1,15 @@
-- 👋 Hi, I’m snow
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning python 
-- 💞️ I’m building a career in web development (I learn Everyday)
-- 📫 How to reach me 08139746375
+Hi 👋 My name is Ekekwe Chinonso
+================================
 
-<!---
-Ekekwecharles/Ekekwecharles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+software engineering student
+----------------------------
+
+I am a software engineering student at Alx Africa, currently learning several programming languages including C, Python, SQL, JavaScript, HTML, and CSS. As a student, I am focused on building a solid foundation in these programming languages and developing my skills in software development. My studies involve learning to write code, designing and implementing algorithms, and creating applications and software systems. Ultimately, I aim to become a skilled and proficient software engineer who can develop innovative solutions to complex problems.
+
+* 🌍  I'm based in Anambra, Nigeria
+* 🖥️  See my blog at [hashnode](https://snowcodes.hashnode.dev/) 
+* ✉️  You can contact me at [ekekwecharles50@gmail.com](mailto:ekekwecharles50@gmail.com)
+* 🚀  I'm currently working towards being a full-stack engineer.
+* 🧠  I'm learning as many things as I can about software engineering.
+* 🤝  I'm open to collaborating on interesting projects
+* 📞  08139746375
