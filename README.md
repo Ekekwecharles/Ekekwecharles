@@ -1,4 +1,4 @@
-Hi 👋 My name is Ekekwe Chinonso
+Hi 👋 My name is Charles Snow
 ================================
 
 software engineering student
