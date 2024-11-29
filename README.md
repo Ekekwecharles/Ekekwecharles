@@ -20,5 +20,5 @@ Feel free to connect with me via email at [ekekwecharles50@gmail.com](mailto:eke
 
 
  * 🖥️  See my blog at [hashnode](https://snowcodes.hashnode.dev/)
- * 👨‍💻 [LinkedIn ](www.linkedin.com/in/xharlessnow)
+ * 👨‍💻 [LinkedIn ](https://www.linkedin.com/in/xharlessnow/)
  * 🕊 [Twitter](https://x.com/xharlessnow)
