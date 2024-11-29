@@ -3,11 +3,12 @@ Hi, I'm **Ekekwe Chinonso Charles**, a passionate Frontend Developer from Anambr
 With expertise in HTML, CSS, JavaScript, and a strong foundation in modern frameworks and tools like React, Redux Toolkit, React Query, and TypeScript, I create scalable solutions tailored to users' needs. I’m also skilled in styling libraries like Styled Components, Tailwind CSS, and Sass/SCSS, enabling me to craft visually appealing and responsive designs.
 
 Key Technologies I Work With:
-Frontend Development: React, React Router, Context API, React Hook Form
-Performance & State Management: Redux Toolkit, React Query, React Error Boundary
-Styling: Styled Components, Tailwind CSS, Sass/SCSS
-Utilities: Vite, Git, Date-fns, React Hot Toast
-APIs & Tools: Firebase, Supabase, Leaflet, Recharts, EmailJS, JSON Server
+- Frontend Development: React, React Router, Context API, React Hook Form
+- Performance & State Management: Redux Toolkit, React Query, React Error Boundary
+- Styling: Styled Components, Tailwind CSS, Sass/SCSS
+- Utilities: Vite, Git, Date-fns, React Hot Toast
+- APIs & Tools: Firebase, Supabase, Leaflet, Recharts, EmailJS, JSON Server.
+
 I am deeply passionate about crafting intuitive user interfaces and seamless user experiences. I thrive on solving challenges and continually growing by learning new technologies and best practices.
 
 Currently, I aim to expand my skill set to become a Full Stack Developer, integrating backend technologies to deliver end-to-end solutions. I am driven by a commitment to continuous improvement and contributing to impactful projects that push boundaries in the tech space.
