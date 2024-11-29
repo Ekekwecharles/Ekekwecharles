@@ -1,15 +1,23 @@
-Hi 👋 My name is Charles Snow
-================================
+Hi, I'm **Ekekwe Chinonso Charles**, a passionate Frontend Developer from Anambra State, Nigeria, currently based in Port Harcourt, Rivers State. I specialize in building dynamic, user-friendly web applications with a focus on performance and maintainability.
 
-software engineering student
-----------------------------
+With expertise in HTML, CSS, JavaScript, and a strong foundation in modern frameworks and tools like React, Redux Toolkit, React Query, and TypeScript, I create scalable solutions tailored to users' needs. I’m also skilled in styling libraries like Styled Components, Tailwind CSS, and Sass/SCSS, enabling me to craft visually appealing and responsive designs.
 
-I am a software engineering student at Alx Africa, currently learning several programming languages including C, Python, SQL, JavaScript, HTML, and CSS. As a student, I am focused on building a solid foundation in these programming languages and developing my skills in software development. My studies involve learning to write code, designing and implementing algorithms, and creating applications and software systems. Ultimately, I aim to become a skilled and proficient software engineer who can develop innovative solutions to complex problems.
+Key Technologies I Work With:
+Frontend Development: React, React Router, Context API, React Hook Form
+Performance & State Management: Redux Toolkit, React Query, React Error Boundary
+Styling: Styled Components, Tailwind CSS, Sass/SCSS
+Utilities: Vite, Git, Date-fns, React Hot Toast
+APIs & Tools: Firebase, Supabase, Leaflet, Recharts, EmailJS, JSON Server
+I am deeply passionate about crafting intuitive user interfaces and seamless user experiences. I thrive on solving challenges and continually growing by learning new technologies and best practices.
 
-* 🌍  I'm based in Anambra, Nigeria
-* 🖥️  See my blog at [hashnode](https://snowcodes.hashnode.dev/) 
-* ✉️  You can contact me at [ekekwecharles50@gmail.com](mailto:ekekwecharles50@gmail.com)
-* 🚀  I'm currently working towards being a full-stack engineer.
-* 🧠  I'm learning as many things as I can about software engineering.
-* 🤝  I'm open to collaborating on interesting projects
-* 📞  08139746375
+Currently, I aim to expand my skill set to become a Full Stack Developer, integrating backend technologies to deliver end-to-end solutions. I am driven by a commitment to continuous improvement and contributing to impactful projects that push boundaries in the tech space.
+
+When I’m not coding, I enjoy exploring new tools and collaborating with other developers to create meaningful solutions.
+
+Feel free to connect with me via email at [ekekwecharles50@gmail.com](mailto:ekekwecharles50@gmail.com) or by phone at **+234 813 974 6375**. Let’s build something amazing together!
+
+
+
+ * 🖥️  See my blog at [hashnode](https://snowcodes.hashnode.dev/)
+ * 👨‍💻 [LinkedIn ](www.linkedin.com/in/xharlessnow)
+ * 🕊 [Twitter](https://x.com/xharlessnow)
