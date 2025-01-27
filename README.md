@@ -1,9 +1,9 @@
 Hi, I'm **Ekekwe Chinonso Charles**, a passionate Frontend Developer from Anambra State, Nigeria, currently based in Port Harcourt, Rivers State. I specialize in building dynamic, user-friendly web applications with a focus on performance and maintainability.
 
-With expertise in HTML, CSS, JavaScript, and a strong foundation in modern frameworks and tools like React, Redux Toolkit, React Query, and TypeScript, I create scalable solutions tailored to users' needs. I’m also skilled in styling libraries like Styled Components, Tailwind CSS, and Sass/SCSS, enabling me to craft visually appealing and responsive designs.
+With expertise in HTML, CSS, JavaScript, and a strong foundation in modern frameworks and tools like React, Redux Toolkit, React Query, TypeScript and Nextjs, I create scalable solutions tailored to users' needs. I’m also skilled in styling libraries like Styled Components, Tailwind CSS, and Sass/SCSS, enabling me to craft visually appealing and responsive designs.
 
 Key Technologies I Work With:
-- Frontend Development: React, React Router, Context API, React Hook Form
+- Frontend Development: React, Nextj, React Router, Context API, React Hook Form
 - Performance & State Management: Redux Toolkit, React Query, React Error Boundary
 - Styling: Styled Components, Tailwind CSS, Sass/SCSS
 - Utilities: Vite, Git, Date-fns, React Hot Toast
